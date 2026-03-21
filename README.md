@@ -5,69 +5,67 @@
 
 ## Overview
 
-**StreetGames** is a university Information Systems Analysis and Design project built around a real business-oriented idea: contacting a business domain, understanding its operational needs, and designing an information system from scratch using the knowledge we gained in the course.
+**StreetGames** is a university Information Systems Analysis and Design project based on a real business, **StreetGames**, an arcade and entertainment chain in Israel.
 
-Instead of starting from code, we started from the business itself. The purpose of the project was to take a real-world operational environment, analyze its workflows, identify its information needs, model its processes, and then turn that analysis into a full system design and working implementation.
+The idea behind the project was to take a real business environment and think about what kind of internal information system could help it run more effectively. Instead of inventing a completely imaginary company, we worked around an existing business context and tried to understand the operational side behind it, such as managing employees, schedules, inventory, and event-related tasks.
 
-From that point, the project developed as a full end-to-end information system effort:
-- understanding the business and its day-to-day operational challenges
+Rather than starting directly with coding, we began by thinking about the business itself: how it works, what information needs to be tracked, which users interact with the system, and which daily processes could be supported better through a structured system.
+
+From there, the project developed into a full end-to-end information system process:
+- analyzing business needs and workflows
 - translating needs into requirements and system logic
 - modeling the system with UML diagrams
 - designing the database structure
 - implementing the application in C#
-- connecting the interface and business workflows to SQL Server
+- connecting the interface and workflows to SQL Server
 
-The result is **StreetGames**, a business management system for a street games and event-operations environment, built as a combination of:
-- **UML-based information system design**
-- **SQL Server relational database development**
-- **C# WinForms desktop application implementation**
+The final result is **StreetGames**, a business management system designed for an entertainment and event operations environment. In our version of the system, we focused on internal processes such as employee management, weekly scheduling, inventory monitoring, and event task tracking.
 
-This repository presents the project not only as software, but as a full **analysis, design, and implementation story**.
+This repository presents the project not only as software, but as a full **analysis, design, and implementation project**.
 
 ---
 
 ## The Story Behind the Project
 
-This project was created as part of an academic process focused on building a system the way information systems are built in practice: not by jumping directly into code, but by first understanding the organization and the business processes behind it.
+This project was created as part of an academic process that aimed to simulate how information systems are actually built in the real world. The main idea was not to jump straight into development, but first to understand the organization, its needs, and its workflows.
 
-We approached the project as a team and worked from the ground up. The goal was to build an information system for a business environment that manages employees, scheduling, inventory, and event-related activity. That meant thinking like analysts and designers before thinking like developers.
+As students, we approached the project step by step. We chose to work around the context of StreetGames and think about the kind of system a business like this could need behind the scenes in order to manage its operations more efficiently.
 
-We began by asking:
-- What does the business actually need?
-- Which processes are repetitive, manual, or hard to manage?
-- Which users interact with the system?
-- What information must be tracked?
-- Which actions should managers perform, and which should employees perform?
-- What business rules should the system enforce?
+That meant asking questions like:
+- What information does the business need to manage on a daily basis?
+- Which processes involve managers, and which involve employees?
+- What tasks repeat regularly and should be organized in the system?
+- Which business rules should the system enforce?
+- How should the system be designed so that it supports daily work in a clear and practical way?
 
-Only after that foundation was clear did we move into modeling and implementation.
+Only after building that foundation did we move on to modeling and implementation.
 
-That process is what makes this project meaningful to us. It was not just about building forms and tables. It was about learning how to transform a business problem into a structured information system through analysis, design, database thinking, and software development.
+What made this project meaningful for us was that it was not just about building forms or writing SQL queries. It was about taking a business context, analyzing it like systems analysts, and turning it into a structured solution through design, database thinking, and application development.
 
 ---
 
 ## Project Purpose
 
-The purpose of this project was to design and implement an information system from scratch for a business-oriented operational environment, based on real needs and supported by structured analysis and design methods.
+The purpose of this project was to design and implement an information system from scratch for a realistic business environment, based on business needs and supported by structured analysis and design methods.
 
-The project aimed to demonstrate how academic knowledge in:
+The project aimed to show how knowledge from:
 - information systems analysis
 - object-oriented design
 - database modeling
 - SQL programming
 - application development
 
-can be combined into one complete working solution.
+can be combined into one complete working system.
 
-The system was built to support core operational activities such as:
+The system was built to support key operational activities such as:
 - employee management
 - role-based system access
 - weekly shift scheduling
 - inventory monitoring
 - event-task tracking
-- business workflow support through structured logic and data operations
+- workflow support through structured logic and data operations
 
----
+Overall, the project was an opportunity for us to take what we learned in class and apply it in a more realistic way by designing a system around the needs of an actual business environment.
 
 ## Main Features
 
