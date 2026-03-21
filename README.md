@@ -152,37 +152,37 @@ Handles employee authentication and routes users to the relevant dashboard based
 
 Provides managers with navigation to the main management modules.
 
-![Manager Dashboard](screenshots/manager-dashboard.png)
+![Manager Dashboard](Screenshots/manager-dashboard.png)
 
 ### Employee Dashboard
 
 Provides employees with access to operational task-related modules.
 
-![Employee Dashboard](screenshots/employee-dashboard.png)
+![Employee Dashboard](Screenshots/employee-dashboard.png)
 
 ### Manage Employees
 
 Supports employee record management, including creation, update, filtering, and status-based handling.
 
-![Manage Employees](screenshots/manage-employees.png)
+![Manage Employees](Screenshots/manage-employees.png)
 
 ### Inventory Monitoring
 
 Displays inventory records, status indicators, alerts, and supports quantity updates.
 
-![Inventory Monitoring](screenshots/inventory-monitoring.png)
+![Inventory Monitoring](Screenshots/inventory-monitoring.png)
 
 ### Event Tasks
 
 Displays employee event tasks and supports status updates.
 
-![Event Tasks](screenshots/event-tasks.png)
+![Event Tasks](Screenshots/event-tasks.png)
 
 ### Weekly Scheduling
 
 Supports weekly planning and scheduling operations.
 
-![Week Scheduling](screenshots/week-scheduling.png)
+![Week Scheduling](Screenshots/week-scheduling.png)
 
 ---
 
@@ -194,13 +194,13 @@ This repository also includes the system design deliverables used during the ana
 
 Represents the main entities, relationships, and structural design of the system.
 
-![Class Diagram](screenshots/class-diagram.jpg)
+![Class Diagram](Screenshots/class-diagram.jpg)
 
 ### Sequence Diagram
 
 Illustrates a core system interaction flow for inventory monitoring and update behavior.
 
-![Sequence Diagram](screenshots/sequence-diagram.png)
+![Sequence Diagram](Screenshots/sequence-diagram.png)
 
 ### State Diagrams
 
@@ -208,11 +208,11 @@ The project includes state-based behavioral modeling for key workflows such as s
 
 #### Shift Swap Request State Diagram
 
-![Shift Swap Request State Diagram](screenshots/state-diagram-shift-swap.png)
+![Shift Swap Request State Diagram](Screenshots/state-diagram-shift-swap.png)
 
 #### Manage Event State Diagram
 
-![Manage Event State Diagram](screenshots/state-diagram-manage-event.png)
+![Manage Event State Diagram](Screenshots/state-diagram-manage-event.png)
 
 Additional modeling files are available in the `Diagrams/` folder as Visual Paradigm project files.
 
@@ -353,7 +353,7 @@ StreetGames/
 ├── .gitignore
 ├── ProjectOverview.pdf
 │
-├── screenshots/
+├── Screenshots/
 │   ├── login.png
 │   ├── manager-dashboard.png
 │   ├── employee-dashboard.png
