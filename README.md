@@ -146,7 +146,7 @@ The project relies on SQL Server tables, relationships, lookup values, and store
 
 Handles employee authentication and routes users to the relevant dashboard based on system role.
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### Manager Dashboard
 
