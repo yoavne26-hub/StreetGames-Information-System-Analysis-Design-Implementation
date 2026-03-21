@@ -334,13 +334,12 @@ Potential future upgrades could include:
 
 This project was developed as a team project.
 
-**Team Members**
+- **Roi Laniado**
 - **Yoav Nesher**
-- **[Team Member 2 Name]**
-- **[Team Member 3 Name]**
-- **[Team Member 4 Name]**
+- **Maya Raz**
+- **Uri Sharf**
+- **Yoav Nesher**
 
-> Replace the placeholder names above with the full names of the other team members.
 
 ---
 
