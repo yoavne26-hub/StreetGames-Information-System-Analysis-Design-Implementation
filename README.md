@@ -332,10 +332,9 @@ Potential future upgrades could include:
 
 ## Team
 
-This project was developed as a team project.
+This project was developed as a team project of 4 Bsc. Industrial Engineering and Management students.
 
 - **Roi Laniado**
-- **Yoav Nesher**
 - **Maya Raz**
 - **Uri Sharf**
 - **Yoav Nesher**
