@@ -1,4 +1,7 @@
 # StreetGames – Information System Analysis, Design & Implementation
+<p align="center">
+  <img src="Screenshots/banner.png" alt="StreetGames Banner" width="900">
+</p>
 
 ## Overview
 
