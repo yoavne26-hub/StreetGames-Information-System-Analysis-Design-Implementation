@@ -335,9 +335,9 @@ Potential future upgrades could include:
 
 This project was developed as a team project of 4 Bsc. Industrial Engineering and Management students.
 
+- **Uri Sharf**
 - **Roi Laniado**
 - **Maya Raz**
-- **Uri Sharf**
 - **Yoav Nesher**
 
 
